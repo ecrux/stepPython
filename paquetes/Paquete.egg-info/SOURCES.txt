@@ -1,0 +1,11 @@
+seput.py
+Paquete.egg-info/PKG-INFO
+Paquete.egg-info/SOURCES.txt
+Paquete.egg-info/dependency_links.txt
+Paquete.egg-info/top_level.txt
+paquete/__init__.py
+paquete/prueba.py
+paquete/adios/__init__.py
+paquete/adios/adiofile.py
+paquete/hola/__init__.py
+paquete/hola/holafile.py
